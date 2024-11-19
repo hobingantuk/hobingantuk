@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hobingantuk&label=Profile%20views&color=0e75b6&style=flat" alt="hobingantuk" /> </p>
 
-- 🌱 I’m currently learning **React JS and Spring boot Website Development**
-- 🎒 I am currently a 4th Year Informatics Student at Institute Teknologi Sepuluh Nopember, Surabaya, and 3rd Semester ICT & Software Engineering Student at Fontys University of Applied Sciences.
+- 🌱 I’m currently learning **React Typescript and C#/.NET Core Website Development**
+- 🎒 I am currently a 4th Year Informatics Student at Institute Teknologi Sepuluh Nopember, Surabaya, and 6th Semester ICT & Software Engineering Student at Fontys University of Applied Sciences.
 - 📫 How to reach me **bagusnugrahaxd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
